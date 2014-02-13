@@ -2,7 +2,7 @@ package hw4;
 
 import java.math.BigInteger;
 
-///CITATION HERE hash code from object reading
+///Citation: Equals and Hashcode methods taken from reading on standard object methods
 
 /**
  * A simple implementation of Fractions.
