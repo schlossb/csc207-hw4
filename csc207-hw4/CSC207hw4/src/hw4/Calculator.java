@@ -3,7 +3,7 @@ package hw4;
 /**
  * A simple Integer calculator
  * 
- * @author mataires
+ * @author mataires & Schlossb
  * @author CSC207 2014S
  */
 public class Calculator
